@@ -2,6 +2,7 @@ payload:
 # Advertising
 # > General
   - DOMAIN-KEYWORD,adservice
+  - DOMAIN-KEYWORD,tinypass
 
   - DOMAIN-SUFFIX,1phads.com
   - DOMAIN-SUFFIX,1rtb.com
