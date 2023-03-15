@@ -1,6 +1,6 @@
 # 内容：OpenAi
 # 数量：3条
-DOMAIN-SUFFIX,ai.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-KEYWORD,openai
+DOMAIN-SUFFIX,ai.com,OpenAI
+DOMAIN-SUFFIX,challenges.cloudflare.com,OpenAI
+DOMAIN-SUFFIX,openai.com,OpenAI
+DOMAIN-KEYWORD,openai,OpenAI
