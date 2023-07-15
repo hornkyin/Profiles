@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,ai.com,OpenAI
 DOMAIN-SUFFIX,challenges.cloudflare.com,OpenAI
 DOMAIN-SUFFIX,openai.com,OpenAI
 DOMAIN-KEYWORD,openai,OpenAI
+# Claude
+DOMAIN-KEYWORD,anthropic,OpenAI
